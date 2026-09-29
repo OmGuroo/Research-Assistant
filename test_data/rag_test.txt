@@ -1,0 +1,3 @@
+Project Orion uses PostgreSQL as its primary database.
+Project Orion uses Redis for caching.
+The API is implemented using FastAPI.

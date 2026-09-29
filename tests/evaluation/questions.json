@@ -1,0 +1,22 @@
+[
+  {
+    "query": "What are the key architectural differences between LangChain and LlamaIndex?",
+    "complexity": "high"
+  },
+  {
+    "query": "Explain how RAG works in one short paragraph.",
+    "complexity": "low"
+  },
+  {
+    "query": "What is the capital of France?",
+    "complexity": "low"
+  },
+  {
+    "query": "Summarize the latest advancements in solid-state batteries for electric vehicles as of 2024.",
+    "complexity": "medium"
+  },
+  {
+    "query": "Who won the men's 100m sprint at the 2024 Olympics?",
+    "complexity": "low"
+  }
+]
